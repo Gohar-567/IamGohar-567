@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on Social Media.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Node JS, Express JS, MongoDB, Tailwind CSS, Material UI, Solidity, Metamask, Web3.js, Crypto & More**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Node JS, Express JS, MongoDB, Tailwind CSS, Material UI, FireBase Cloud, AWS, Lambda, Api-GateWay, Cognito, Redis, DynamoDb, S3-Bucket, Solidity, Metamask, Web3.js, ERC-20, ERC-721, Moralis, Alchemy, Crypto & More**
 
 - 📫 How to reach me **gohar.567.gn@gmail.com**
 
